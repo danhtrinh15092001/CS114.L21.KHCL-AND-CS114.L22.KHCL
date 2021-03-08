@@ -1,5 +1,5 @@
 ## CS114.L21.KHCL
-CS114.L21 - MÁY HỌC - MACHINE LEARNING
+CS114.L21.KHCL - MÁY HỌC - MACHINE LEARNING
 ## Giới thiệu bản thân
 - Họ và tên: Trịnh Công Danh
 - MSSV: 19521326
